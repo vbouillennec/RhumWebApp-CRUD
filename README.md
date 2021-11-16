@@ -1,11 +1,9 @@
 # RhumWebApp-CRUD
 
 First start the API with the following command line :
-`
-cd rhumapi
+`cd rhumapi
 
-./mvnw spring-boot:run
-`
+./mvnw spring-boot:run`
 
 Then start the Web App with the following command line :
 `
